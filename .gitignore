@@ -1,1 +1,10 @@
+*.toml
+.env
+secrets.toml
 
+pycache__/
+*.pyc
+
+ipynb_checkpoints/
+
+.DS_Store
